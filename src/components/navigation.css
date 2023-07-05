@@ -1,0 +1,7 @@
+.appbar {
+    position: sticky;
+    top: 0;
+}
+.MuiButton-root {
+    border-radius: 0% !important;
+}
